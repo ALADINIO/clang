@@ -1,6 +1,5 @@
-//===----------------------------------------------------------------------===//
-// C Language Family Front-end
-//===----------------------------------------------------------------------===//
+
+# C Language Family Front-end
 
 Welcome to Clang.  This is a compiler front-end for the C family of languages
 (C, C++, Objective-C, and Objective-C++) which is built as part of the LLVM
@@ -25,3 +24,29 @@ on the Clang development mailing list:
 If you find a bug in Clang, please file it in the LLVM bug tracker:
   http://llvm.org/bugs/
 
+# Table of Contents
+
+- [Install](#install)
+- [Code Owners](#code_owners)
+- [Notes](#notes)
+- [LICENSE](#license)
+
+## Install
+<a name='install'></a>
+
+Please follow the [installation guide](https://github.com/ALADINIO/clang/blob/master/INSTALL.md).
+
+## Code Owners
+<a name='code_owners'></a>
+
+[Code Owners](https://github.com/ALADINIO/clang/blob/master/CODE_OWNERS.TXT)
+
+## Notes
+<a name='notes'></a>
+
+[NOTES](https://github.com/ALADINIO/clang/blob/master/NOTES.md)
+
+## LICENSE
+<a name='license'></a>
+
+[LLVM Release License](https://github.com/ALADINIO/clang/blob/master/LICENSE.TXT)
